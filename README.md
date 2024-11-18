@@ -8,7 +8,8 @@ By implementing these technologies, the platform achieved significantly reduced 
 
 **The integration of these tools offers a scalable solution for e-commerce platforms seeking both high performance and adaptability in managing divers, high-volume data.**
 
-<img src="data/pictures/fnac-screenshot.png" alt="Description" width=80%>
+<img src="data/fnac-screenshot.png" alt="Description" width=80%>
+![fnac-screenshot]("data/fnac-screenshot.png")
 ## Context
 In the rapidly evolving world of e-commerce, the website's mission is to offer a comprehensive range of high-quality tech products, including laptops, smartphones, accessories, and other electronics, aimed at tech enthusiasts and everyday consumers alike. As the platform expands to accommodate an ever-growing catalog, maintaining a seamless user experience is a top priority.
 
