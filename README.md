@@ -36,6 +36,7 @@ Below is the diagram for the design of **System Architecture for User Authentica
 - Black elements: User Session and Data Query Processes
 
 <img src="data/system-architecture.png" alt="Description" width=80%>
+
 ## Materials
 **Why choose Redis to manage session and caching data?**
 
